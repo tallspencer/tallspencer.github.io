@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Welcome to My Github Page
 
 I am a Applied Statistics and Economics double major at the University of California, Davis who is going to graduate in June 2017.
 
